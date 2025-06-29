@@ -1,1 +1,1 @@
-![ERD Diagram](./ERD.png)
+![ERD Diagram](./ERD/ERD.png)
